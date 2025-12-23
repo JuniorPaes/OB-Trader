@@ -1,0 +1,8 @@
+{
+  "name": "Market Vision Live",
+  "description": "Sistema de análise de gráficos em tempo real para Forex e Opções Binárias usando compartilhamento de tela e visão computacional heurística.",
+  "requestFramePermissions": [
+    "camera",
+    "display-capture"
+  ]
+}
